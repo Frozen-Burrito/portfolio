@@ -1,12 +1,18 @@
-# Personal Site
+# My Personal Site
 
-This is my personal site, containing information about me and showcasing some of my projects.
+`v1.0.0`
+
+Welcome to my personal website portfolio, built as a way to have an online presence apart from popular social media. This is a simple static site developed using GatsbyJs.
+
+> This project is personal
+
+You can visit the website [here]()
 
 ## Features
-* Gatsby-based site
-* That's all
+* Displays my projects
+* Links to social media
 
-## Requirements
-* NodeJs
-
-For the time being, this project is still in development.
+## Stack
+* JavaScript
+* Gatsby
+* GraphQL
